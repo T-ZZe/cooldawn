@@ -1,0 +1,4 @@
+name: CooldownPlugin
+version: 1.0.0
+main: fr.exemple.cooldown.CooldownPlugin
+api-version: "26.3"
